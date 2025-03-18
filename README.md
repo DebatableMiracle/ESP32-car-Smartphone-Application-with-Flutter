@@ -38,6 +38,19 @@ This project enables remote control of an RC car using an ESP32 microcontroller 
    - Establish a BLE connection between the app and the ESP32.
    - Use the on-screen controls to operate the car.
 
+
+## Contributors
+<a href="https://github.com/DebatableMiracle">
+  <img src="https://github.com/DebatableMiracle.png" width="50" height="50" alt="DebatableMiracle">
+</a>
+<a href="https://github.com/01bps">
+  <img src="https://github.com/01bps.png" width="50" height="50" alt="01bps">
+</a>
+
+- **[Anubhav Verma](https://github.com/DebatableMiracle)** - Main Developer
+- **[01bps](https://github.com/01bps)** - Contributor
+
+
 ## License
 
 This project is licensed under the MIT License.
